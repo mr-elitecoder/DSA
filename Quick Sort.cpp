@@ -31,7 +31,7 @@ int partition( vector<int>& arr, int start, int end){
 }
 void quickSort( vector<int> &arr, int start, int end){
     if(start >= end) return ; // base case : here we stop
-    // as when there is only on element or no element
+    // as when there is only on element or no element no partition needed
     int pivotIdx = partition( arr, start, end );
     quickSort(arr, start, pivotIdx - 1);
     // left half recursive call
