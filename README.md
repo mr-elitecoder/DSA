@@ -58,8 +58,6 @@ Arrays → Strings → Binary Search → Recursion
    ┗ 📂 part_03
 ```
 
----
-
 ## 🟢 Arrays (27)
 
 <details>
@@ -94,8 +92,6 @@ Arrays → Strings → Binary Search → Recursion
 - [ ] [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 </details>
-
----
 
 ## 🟠 Strings (12)
 
