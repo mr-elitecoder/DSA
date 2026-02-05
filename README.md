@@ -63,16 +63,16 @@ Arrays → Strings → Binary Search → Recursion
 <details>
 <summary><strong>Expand</strong></summary>
 
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
-- [ ] [Missing & Repeating Numbers](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [Missing & Repeating Numbers](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
+- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [Single Number](https://leetcode.com/problems/single-number/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 - [ ] [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [4Sum](https://leetcode.com/problems/4sum/)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] [Next Permutation](https://leetcode.com/problems/next-permutation/)
