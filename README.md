@@ -3,42 +3,17 @@
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge)
 ![Source](https://img.shields.io/badge/Sheet-Apna%20College-ff69b4?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mr--elitecoder-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/mr-elitecoder)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mr-elitecoder?theme=dark)](https://leetcode.com/mr-elitecoder)
 
 ---
 
-## 📖 Overview
+## 👋 Hi CodeBuddy
 
-This repository contains my **topic-wise, optimized C++ solutions** to the  
-**Apna College Data Structures & Algorithms Sheet**.
+Here is my profile. Let's connect and check out my **DSA progress**!
 
-### 🎯 Objectives
-
-- Build **strong DSA fundamentals**
-- Write **clean, optimized, interview-ready C++**
-- Understand **time & space complexity**
-- Follow a **structured learning roadmap**
-
-This repository is intended for **placements, interviews, and competitive programming**.
-
----
-
-## 🧮 Progress Summary
-
-| Topic                    | Solved | Total  |
-| ------------------------ | ------ | ------ |
-| Arrays                   | 0      | 27     |
-| Strings                  | 0      | 12     |
-| Binary Search            | 0      | 7      |
-| Recursion & Backtracking | 0      | 12     |
-| Linked List              | 0      | 12     |
-| Stack & Queue            | 0      | 16     |
-| **Overall**              | **0**  | **86** |
-
-> 📌 **Progress % formula**  
-> `(Solved / 86) × 100`
-
-Update the badge manually when needed.
+[📈 Check my DSA Progress on Apna College](https://dsa.apnacollege.in/share/3f203d942c4424c617702255188273578301ac66ec018)
 
 ---
 
@@ -47,6 +22,7 @@ Update the badge manually when needed.
 ```text
 Arrays → Strings → Binary Search → Recursion
 → Linked List → Stack & Queue → (Trees, Graphs, DP next)
+
 ```
 
 ## 📂 Repository Structure
@@ -64,195 +40,150 @@ Arrays → Strings → Binary Search → Recursion
 
 ## 🟢 Arrays (27)
 
-<details>
-<summary><strong>Part 01</strong></summary>
+### Part 01
 
-- [x] Majority Element
-- [x] Missing & Repeating Numbers
-- [x] Merge Sorted Array
-- [x] Single Number
-- [x] Buy and Sell Stock
+- Majority Element
+- Missing & Repeating Numbers
+- Merge Sorted Array
+- Single Number
+- Buy and Sell Stock
 
-</details>
+### Part 02
 
-<details>
-<summary><strong>Part 02</strong></summary>
+- Pow(x, n)
+- Kadane’s Algorithm
+- Container With Most Water
+- Sort Array of 0s, 1s, 2s
+- 3Sum
+- 4Sum
 
-- [x] Pow(x, n)
-- [ ] Kadane’s Algorithm
-- [ ] Container With Most Water
-- [ ] Sort Array of 0s, 1s, 2s
-- [x] 3Sum
-- [ ] 4Sum
+### Part 03
 
-</details>
+- Search in 2D Matrix
+- Next Permutation
+- Merge Overlapping Intervals
+- Longest Substring Without Repeating Characters
+- Set Matrix Zeroes
 
-<details>
-<summary><strong>Part 03</strong></summary>
+### Part 04
 
-- [ ] Search in 2D Matrix
-- [ ] Next Permutation
-- [ ] Merge Overlapping Intervals
-- [ ] Longest Substring Without Repeating Characters
-- [ ] Set Matrix Zeroes
+- Word Search
+- Product of Array Except Self
+- Subarray Sum Equals K
+- Find Duplicate Number
+- Count Inversions
 
-</details>
+### Part 05
 
-<details>
-<summary><strong>Part 04</strong></summary>
-
-- [ ] Word Search
-- [ ] Product of Array Except Self
-- [ ] Subarray Sum Equals K
-- [ ] Find Duplicate Number
-- [ ] Count Inversions
-
-</details>
-
-<details>
-<summary><strong>Part 05</strong></summary>
-
-- [ ] Spiral Matrix
-- [ ] Search in Sorted Matrix II
-- [ ] Trapping Rainwater
-- [ ] Sliding Window Maximum
-- [ ] Largest Rectangle in Histogram
-- [ ] Reverse Pairs
-
-</details>
+- Spiral Matrix
+- Search in Sorted Matrix II
+- Trapping Rainwater
+- Sliding Window Maximum
+- Largest Rectangle in Histogram
+- Reverse Pairs
 
 ---
 
 ## 🟠 Strings (12)
 
-<details>
-<summary><strong>Part 01</strong></summary>
+### Part 01
 
-- [ ] Longest Common Prefix
-- [ ] Group Anagrams
-- [ ] Minimum Window Substring
-- [ ] KMP Algorithm
-- [ ] Rabin-Karp Algorithm
+- Longest Common Prefix
+- Group Anagrams
+- Minimum Window Substring
+- KMP Algorithm
+- Rabin-Karp Algorithm
 
-</details>
+### Part 02
 
-<details>
-<summary><strong>Part 02</strong></summary>
-
-- [ ] Reverse Words in a String
-- [ ] Valid Palindrome
-- [ ] Valid Anagram
-- [ ] Remove All Occurrences of a Substring
-- [ ] Permutation in String
-- [ ] String Compression
-
-</details>
+- Reverse Words in a String
+- Valid Palindrome
+- Valid Anagram
+- Remove All Occurrences of a Substring
+- Permutation in String
+- String Compression
 
 ---
 
 ## 🔵 Binary Search (7)
 
-<details>
-<summary><strong>Part 01</strong></summary>
+### Part 01
 
-- [ ] Peak Index in Mountain Array
-- [ ] Search in Rotated Sorted Array
-- [ ] Single Element in Sorted Array
-- [ ] Aggressive Cows
-- [ ] Allocate Minimum Pages
-- [ ] Painter’s Partition
-- [ ] Median of Two Sorted Arrays
-
-</details>
+- Peak Index in Mountain Array
+- Search in Rotated Sorted Array
+- Single Element in Sorted Array
+- Aggressive Cows
+- Allocate Minimum Pages
+- Painter’s Partition
+- Median of Two Sorted Arrays
 
 ---
 
 ## 🟣 Recursion & Backtracking (12)
 
-<details>
-<summary><strong>Part 01</strong></summary>
+### Part 01
 
-- [ ] Combination Sum I
-- [ ] Combination Sum II
-- [ ] Palindrome Partitioning
-- [ ] N-Queens
-- [ ] Sudoku Solver
-- [ ] M-Coloring Problem
+- Combination Sum I
+- Combination Sum II
+- Palindrome Partitioning
+- N-Queens
+- Sudoku Solver
+- M-Coloring Problem
 
-</details>
+### Part 02
 
-<details>
-<summary><strong>Part 02</strong></summary>
-
-- [ ] Knight’s Tour
-- [ ] Subsets II
-- [ ] Merge Sort
-- [ ] Rat in a Maze
-- [ ] Count Inversions (Recursion)
-
-</details>
+- Knight’s Tour
+- Subsets II
+- Merge Sort
+- Rat in a Maze
+- Count Inversions (Recursion)
 
 ---
 
 ## 🟡 Linked List (12)
 
-<details>
-<summary><strong>Part 01</strong></summary>
+### Part 01
 
-- [ ] Middle of Linked List
-- [ ] Reverse Linked List
-- [ ] Detect Cycle in Linked List
-- [ ] Remove Cycle in Linked List
-- [ ] Merge Two Sorted Linked Lists
-- [ ] Flatten a Linked List
+- Middle of Linked List
+- Reverse Linked List
+- Detect Cycle in Linked List
+- Remove Cycle in Linked List
+- Merge Two Sorted Linked Lists
+- Flatten a Linked List
 
-</details>
+### Part 02
 
-<details>
-<summary><strong>Part 02</strong></summary>
-
-- [ ] Palindrome Linked List
-- [ ] Clone List with Random Pointers
-- [ ] Reverse Linked List II
-- [ ] Add Two Numbers
-- [ ] Reverse Nodes in K-Group
-- [ ] Rotate Linked List
-
-</details>
+- Palindrome Linked List
+- Clone List with Random Pointers
+- Reverse Linked List II
+- Add Two Numbers
+- Reverse Nodes in K-Group
+- Rotate Linked List
 
 ---
 
 ## 🔴 Stack & Queue (16)
 
-<details>
-<summary><strong>Part 01</strong></summary>
+### Part 01
 
-- [ ] Implement Stack using Queue
-- [ ] Implement Queue using Stack
-- [ ] Valid Parentheses
-- [ ] Next Greater Element
-- [ ] Next Smaller Element
+- Implement Stack using Queue
+- Implement Queue using Stack
+- Valid Parentheses
+- Next Greater Element
+- Next Smaller Element
 
-</details>
+### Part 02
 
-<details>
-<summary><strong>Part 02</strong></summary>
+- First Non-Repeating Character
+- Reverse First K Elements of Queue
+- Stock Span Problem
+- LRU Cache
+- Get Minimum Element from Stack
 
-- [ ] First Non-Repeating Character
-- [ ] Reverse First K Elements of Queue
-- [ ] Stock Span Problem
-- [ ] LRU Cache
-- [ ] Get Minimum Element from Stack
+### Part 03
 
-</details>
-
-<details>
-<summary><strong>Part 03</strong></summary>
-
-- [ ] Celebrity Problem
-- [ ] Rotten Oranges
-- [ ] Sort a Stack
-- [ ] Circular Tour (Gas Station)
-- [ ] Max Area in Histogram
-
-</details>
+- Celebrity Problem
+- Rotten Oranges
+- Sort a Stack
+- Circular Tour (Gas Station)
+- Max Area in Histogram
