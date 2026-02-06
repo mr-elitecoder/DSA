@@ -1,0 +1,21 @@
+name: Update Progress Badge
+
+on:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Progress Badge
+        uses: arslan-xyz/checkbox-progress-action@v1
+        with:
+          file: README.md
+          badge-color: green
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
