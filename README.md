@@ -3,7 +3,6 @@
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge)
 ![Source](https://img.shields.io/badge/Sheet-Apna%20College-ff69b4?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
 
 ---
 
@@ -20,25 +19,6 @@ This repository contains my **topic-wise, optimized C++ solutions** to the
 - Follow a **structured learning roadmap**
 
 This repository is intended for **placements, interviews, and competitive programming**.
-
----
-
-## 🧮 Progress Summary
-
-| Topic                    | Solved | Total  |
-| ------------------------ | ------ | ------ |
-| Arrays                   | 0      | 27     |
-| Strings                  | 0      | 12     |
-| Binary Search            | 0      | 7      |
-| Recursion & Backtracking | 0      | 12     |
-| Linked List              | 0      | 12     |
-| Stack & Queue            | 0      | 16     |
-| **Overall**              | **0**  | **86** |
-
-> 📌 **Progress % formula**  
-> `(Solved / 86) × 100`
-
-Update the badge manually when needed.
 
 ---
 
