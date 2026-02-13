@@ -59,7 +59,7 @@ Arrays → Strings → Binary Search → Recursion
 <summary><strong>Part 02</strong></summary>
 
 - [x] Pow(x, n)
-- [ ] Kadane’s Algorithm
+- [x] Kadane’s Algorithm
 - [ ] Container With Most Water
 - [x] Sort Array of 0s, 1s, 2s
 - [x] 3Sum
