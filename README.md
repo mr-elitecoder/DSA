@@ -63,7 +63,7 @@ Arrays → Strings → Binary Search → Recursion
 - [ ] Container With Most Water
 - [x] Sort Array of 0s, 1s, 2s
 - [x] 3Sum
-- [ ] 4Sum
+- [x] 4Sum
 
 </details>
 
