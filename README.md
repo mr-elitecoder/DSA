@@ -11,7 +11,7 @@
 This repository contains my **topic-wise, optimized C++ solutions** to the  
 **Apna College Data Structures & Algorithms Sheet**.
 
-### 🎯 Objectives
+### 🎯 Objectives 
 
 - Build **strong DSA fundamentals**
 - Write **clean, optimized, interview-ready C++**
