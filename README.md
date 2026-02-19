@@ -60,7 +60,7 @@ Arrays → Strings → Binary Search → Recursion
 
 - [x] Pow(x, n)
 - [x] Kadane’s Algorithm
-- [ ] Container With Most Water
+- [x] Container With Most Water
 - [x] Sort Array of 0s, 1s, 2s
 - [x] 3Sum
 - [x] 4Sum
@@ -70,7 +70,7 @@ Arrays → Strings → Binary Search → Recursion
 <details>
 <summary><strong>Part 03</strong></summary>
 
-- [ ] Search in 2D Matrix
+- [x] Search in 2D Matrix
 - [ ] Next Permutation
 - [ ] Merge Overlapping Intervals
 - [ ] Longest Substring Without Repeating Characters
