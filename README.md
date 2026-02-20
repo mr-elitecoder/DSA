@@ -71,7 +71,7 @@ Arrays → Strings → Binary Search → Recursion
 <summary><strong>Part 03</strong></summary>
 
 - [x] Search in 2D Matrix
-- [ ] Next Permutation
+- [x] Next Permutation
 - [ ] Merge Overlapping Intervals
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Set Matrix Zeroes
