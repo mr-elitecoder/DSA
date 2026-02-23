@@ -29,44 +29,28 @@
           become 0.
         - Minimum Size Array (e.g., [1, 2]): Works perfectly as prefixes and suffixes 
           will just be the single opposite elements.
-        -----------------------------------------------------------------------
-        */
+        ----------------------------------------------------------------------- 
+*/
 
-
-#include <vector>
+// # Code 
 
 class Solution {
 public:
-    std::vector<int> productExceptSelf(std::vector<int>& nums) {
-     
+    vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
-        
-        /* Allocate the result array and initialize all elements to 1./*
-        std::vector<int> result(n, 1);
-
-        /*STEP 1: Compute Left Products*/
+        std :: vector<int> result(n,1);
 
         int leftProduct = 1;
-        for(int i = 0; i < n; i++) {
-            /* Store the product of all elements to the left of index 'i' */
-
+        for(int i = 0 ; i < n ; i++){
             result[i] = leftProduct;
-            /* Subsequently update the leftProduct for the next iteration*/
             leftProduct *= nums[i];
         }
 
-        /* STEP 2: Compute Right Products & Final Result */
-
         int rightProduct = 1;
-        for(int i = n - 1; i >= 0; i--) {
-            /* Multiply the stored left product by the product of all elements to the right */
-
+        for(int i = n - 1; i >= 0 ; i--){
             result[i] *= rightProduct;
-            /* Subsequently update the rightProduct for the next iteration */ 
             rightProduct *= nums[i];
         }
-
-        /* Return the finalized array */
         return result;
     }
 };
