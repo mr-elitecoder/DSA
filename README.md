@@ -82,7 +82,7 @@ Arrays → Strings → Binary Search → Recursion
 <summary><strong>Part 04</strong></summary>
 
 - [ ] Word Search
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Subarray Sum Equals K
 - [ ] Find Duplicate Number
 - [ ] Count Inversions
