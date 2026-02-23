@@ -41,28 +41,32 @@ public:
      
         int n = nums.size();
         
-        // Allocate the result array and initialize all elements to 1.
+        /* Allocate the result array and initialize all elements to 1./*
         std::vector<int> result(n, 1);
 
-        // STEP 1: Compute Left Products
+        /*STEP 1: Compute Left Products*/
+
         int leftProduct = 1;
         for(int i = 0; i < n; i++) {
-            // Store the product of all elements to the left of index 'i'
+            /* Store the product of all elements to the left of index 'i' */
+
             result[i] = leftProduct;
-            // Subsequently update the leftProduct for the next iteration
+            /* Subsequently update the leftProduct for the next iteration*/
             leftProduct *= nums[i];
         }
 
-        // STEP 2: Compute Right Products & Final Result
+        /* STEP 2: Compute Right Products & Final Result */
+
         int rightProduct = 1;
         for(int i = n - 1; i >= 0; i--) {
-            // Multiply the stored left product by the product of all elements to the right
+            /* Multiply the stored left product by the product of all elements to the right */
+
             result[i] *= rightProduct;
-            // Subsequently update the rightProduct for the next iteration
+            /* Subsequently update the rightProduct for the next iteration */ 
             rightProduct *= nums[i];
         }
 
-        // Return the finalized array
+        /* Return the finalized array */
         return result;
     }
 };
