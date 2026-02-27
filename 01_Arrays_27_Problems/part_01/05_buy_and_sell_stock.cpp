@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+ 
 int maxProfit(const vector<int> &prices)
 {
     int minPrice = prices[0];
