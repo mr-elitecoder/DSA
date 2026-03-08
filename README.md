@@ -73,7 +73,7 @@ Arrays → Strings → Binary Search → Recursion
 - [x] Search in 2D Matrix
 - [x] Next Permutation
 - [x] Merge Overlapping Intervals
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
 - [ ] Set Matrix Zeroes
 
 </details>
