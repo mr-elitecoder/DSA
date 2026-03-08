@@ -1,4 +1,4 @@
- # 🚀 Data Structures & Algorithms (DSA) in C++
+  # 🚀 Data Structures & Algorithms (DSA) in C++
 
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge)
