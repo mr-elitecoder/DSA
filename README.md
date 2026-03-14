@@ -1,19 +1,44 @@
-# 🚀 Data Structures & Algorithms (DSA) in C++
+# Data Structures & Algorithms (DSA) in C++
 
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge)
 ![Source](https://img.shields.io/badge/Sheet-Apna%20College-ff69b4?style=for-the-badge)
-[![LeetCode](https://img.shields.io/badge/LeetCode-mr--elitecoder-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/mr-elitecoder)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mr-elitecoder?theme=dark)](https://leetcode.com/mr-elitecoder)
+![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
 
 ---
 
-## 👋 Hi CodeBuddy
+## 📖 Overview
 
-Here is my profile. Let's connect and check out my **DSA progress**!
+This repository contains my **topic-wise, optimized C++ solutions** to the  
+**Apna College Data Structures & Algorithms Sheet**.
 
-[📈 Check my DSA Progress on Apna College](https://dsa.apnacollege.in/share/3f203d942c4424c617702255188273578301ac66ec018)
+### 🎯 Objectives
+
+- Build **strong DSA fundamentals**
+- Write **clean, optimized, interview-ready C++**
+- Understand **time & space complexity**
+- Follow a **structured learning roadmap**
+
+This repository is intended for **placements, interviews, and competitive programming**.
+
+---
+
+## 🧮 Progress Summary
+
+| Topic                    | Solved | Total  |
+| ------------------------ | ------ | ------ |
+| Arrays                   | 0      | 27     |
+| Strings                  | 0      | 12     |
+| Binary Search            | 0      | 7      |
+| Recursion & Backtracking | 0      | 12     |
+| Linked List              | 0      | 12     |
+| Stack & Queue            | 0      | 16     |
+| **Overall**              | **0**  | **86** |
+
+> 📌 **Progress % formula**  
+> `(Solved / 86) × 100`
+
+Update the badge manually when needed.
 
 ---
 
@@ -50,28 +75,28 @@ Arrays → Strings → Binary Search → Recursion
 
 ### Part 02
 
-- Pow(x, n)
-- Kadane’s Algorithm
-- Container With Most Water
-- Sort Array of 0s, 1s, 2s
-- 3Sum
-- 4Sum
+- [x] Pow(x, n)
+- [ ] Kadane’s Algorithm
+- [ ] Container With Most Water
+- [ ] Sort Array of 0s, 1s, 2s
+- [x] 3Sum
+- [ ] 4Sum
 
 ### Part 03
 
-- Search in 2D Matrix
-- Next Permutation
-- Merge Overlapping Intervals
-- Longest Substring Without Repeating Characters
-- Set Matrix Zeroes
+- [ ] Search in 2D Matrix
+- [ ] Next Permutation
+- [ ] Merge Overlapping Intervals
+- [ ] Longest Substring Without Repeating Characters
+- [ ] Set Matrix Zeroes
 
 ### Part 04
 
-- Word Search
-- Product of Array Except Self
-- Subarray Sum Equals K
-- Find Duplicate Number
-- Count Inversions
+- [ ] Word Search
+- [ ] Product of Array Except Self
+- [ ] Subarray Sum Equals K
+- [ ] Find Duplicate Number
+- [ ] Count Inversions
 
 ### Part 05
 
