@@ -16,23 +16,18 @@ void bfs(
 
     while (!q.empty())
     {
-        int levelSize = q.size();
-        for (int i = 0; i < levelSize; i++)
-        {
-            int curr = q.front();
-            q.pop();
-            cout << curr << " ";
+        int curr = q.front();
+        q.pop();
+        cout << curr << " ";
 
-            for (int n : graph[curr])
+        for (int n : graph[curr])
+        {
+            if (!visited.count(n))
             {
-                if (!visited.count(n))
-                {
-                    q.push(n);
-                    visited.insert(n);
-                }
+                q.push(n);
+                visited.insert(n);
             }
         }
-        cout << endl;
     }
 }
 
