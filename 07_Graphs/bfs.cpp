@@ -12,36 +12,27 @@ void bfs(
 {
     queue<int> q;
     q.push(node);
-    q.push(-1); // for next line
     visited.insert(node);
 
     while (!q.empty())
     {
-        int curr = q.front();
-        q.pop();
-
-        if (curr == -1) // Next line logic
+        int levelSize = q.size();
+        for (int i = 0; i < levelSize; i++)
         {
-            cout << endl;
-            if (!q.empty())
-            {
-                q.push(-1);
-                continue;
-            }
-            else
-                return;
-        }
+            int curr = q.front();
+            q.pop();
+            cout << curr << " ";
 
-        cout << curr << " ";
-
-        for (int n : graph[curr])
-        {
-            if (!visited.count(n))
+            for (int n : graph[curr])
             {
-                q.push(n);
-                visited.insert(n);
+                if (!visited.count(n))
+                {
+                    q.push(n);
+                    visited.insert(n);
+                }
             }
         }
+        cout << endl;
     }
 }
 
